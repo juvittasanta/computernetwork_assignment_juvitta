@@ -16,3 +16,29 @@ The assignment demonstrates the complete process of accessing Instagram through 
 
 ## Conclusion
 This assignment helped in understanding how application-layer protocols work together to deliver web pages over the Internet. By studying Instagram, we learned the roles of DNS, HTTPS, TCP, cookies, and the TCP/IP protocol stack in providing secure, reliable, and efficient communication between users and web servers. This knowledge provides a better understanding of how modern web applications function.
+
+## Network Diagram
+
+```text
+User
+   │
+   ▼
+Web Browser
+   │
+   ▼
+DNS Server
+   │
+(IP Address)
+   ▼
+Instagram Web Server
+   │
+HTTPS Request
+   │
+Server Processes Request
+   │
+HTTPS Response
+   ▼
+Web Browser
+   ▼
+Instagram Homepage Displayed
+```
