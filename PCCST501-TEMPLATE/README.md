@@ -4,10 +4,10 @@
 
 | Field | Details |
 |---|---|
-| Name | |
-| Register Number | |
-| GitHub Username | |
-| Class | S5 CSE |
+| Name | Juvitta Santa Biju|
+| Register Number | VJC24CS119 |
+| GitHub Username | juvittasanta |
+| Class | S5 CSE - A|
 | College | Viswajyothi College of Engineering and Technology |
 
 ## Repository Structure
